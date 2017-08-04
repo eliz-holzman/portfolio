@@ -1,67 +1,102 @@
 body {
+  background-color: #CCC;
   padding: 0;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 50px;
+  font-size: 20px;
   line-height: 1.5;
-  color: #446269; }
+  color: #446269;
+}
 
 a {
   color: #1182DB;
-  text-decoration: none; }
+  text-decoration: none;
+}
   a:hover {
-    color: #009BFF; }
+    color: #009BFF;
+  }
 
 .btn {
   display: inline-block;
-  color: rgba(255, 255, 255, 0.8);
+  color: white;
   background-color: rgba(255, 255, 255, 0.2);
   border-color: rgba(255, 255, 255, 0.3);
   border-style: solid;
   border-width: 1px;
   border-radius: 2px;
   font-size: 20px;
-  padding: 5px 15px; }
+  margin: 10px;
+  padding: 5px 15px;
+}
 
 .btn:hover {
-  color: rgba(255, 255, 255, 0.8);
+  color: white;
   text-decoration: none;
-  background-color: rgba(255, 255, 255, 0.4);
-  border-color: rgba(255, 255, 255, 0.5); }
+  background-color: rgba(255, 255, 255, 0.3);
+  border-color: rgba(255, 255, 255, 0.5);
+}
 
-.buttons {
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%; }
+.button-row {
+  width: 100%;
+}
 
 .image {
   background-color: #15515E;
   position: relative;
   width: 100%;
   opacity: 0.9;
-  text-align: center; }
+  text-align: center;
+}
 
 .page-header img{
   margin-top: 20px;
   max-width: 650px;
-  width: 100%; }
+  width: 100%;
+}
 
 .project-name {
   color: white;
+  font-size: 50px;
   margin-top: 0;
   margin-bottom: 10px;
   position: absolute;
   text-align: center;
   top: 30%;
-  width: 100%; }
+  width: 100%;
+}
 
 .site-footer {
-  font-size: 15px;
+  border-top: solid 1px #eff0f1;
+  font-size: 12px;
+  font-weight: lighter;
+  margin-top: 100px;
   padding-top: 20px;
-  margin-top: 20px;
-  border-top: solid 1px #eff0f1; }
+}
 
 .site-footer-owner {
   display: block;
-  font-weight: bold; }
+  text-align: right;
+  margin: 5px;
+}
+
+.tbc {
+  font-size: 15px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.subtext {
+  margin-top: 10px;
+}
+
+.welcome {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.wrapper {
+  background-color: white;
+  max-width: 775px;
+  margin: 0 auto;
+}
