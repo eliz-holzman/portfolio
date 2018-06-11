@@ -227,7 +227,6 @@ a {
 
 #process {
   background-image: url("../images/hero.jpg");
-  /* background: linear-gradient(to top right, #0D1A1E, #1C2E35); */
   z-index:2;
 }
 
