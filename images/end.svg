@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="390px" height="390px" viewBox="0 0 390 390" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>end</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="23.5276046%" cy="50%" fx="23.5276046%" fy="50%" r="118.769172%" gradientTransform="translate(0.235276,0.500000),scale(1.000000,0.502093),scale(1.000000,1.039027),translate(-0.235276,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#767162" offset="0%"></stop>
+            <stop stop-color="#162726" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="end" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path-2-Copy-9" fill="url(#radialGradient-1)" points="225 115 245.183537 115 185.018142 191.579998 245.183537 274.661262 225 274.661262 165.018694 191.574594"></polygon>
+        <polygon id="Path-2-Copy-10" fill="url(#radialGradient-1)" points="204.981306 115 225.164843 115 164.999449 191.579998 225.164843 274.661262 204.981306 274.661262 145 191.574594"></polygon>
+        <polygon id="Path-2-Copy-13" fill="url(#radialGradient-1)" points="184.981306 115 205.164843 115 144.999449 191.579998 205.164843 274.661262 184.981306 274.661262 125 191.574594"></polygon>
+        <polygon id="Path-2-Copy-14" fill="url(#radialGradient-1)" points="164.981306 115 185.164843 115 124.999449 191.579998 185.164843 274.661262 164.981306 274.661262 105 191.574594"></polygon>
+        <polygon id="Path-2-Copy-11" fill="url(#radialGradient-1)" points="244.981306 115 265.164843 115 204.999449 191.579998 265.164843 274.661262 244.981306 274.661262 185 191.574594"></polygon>
+        <polygon id="Path-2-Copy-12" fill="url(#radialGradient-1)" points="264.981306 115 285.164843 115 224.999449 191.579998 285.164843 274.661262 264.981306 274.661262 205 191.574594"></polygon>
+    </g>
+</svg>
