@@ -220,12 +220,12 @@ a {
   background: 50% 50% / cover;
 }
 
-#slide1:before {
+#aboutme:before {
   background-image: url("../images/hero2.jpg");
   transform: translateZ(-1px) scale(2);
 }
 
-#slide2 {
+#process {
   background-image: url("../images/hero.jpg");
   /* background: linear-gradient(to top right, #0D1A1E, #1C2E35); */
   z-index:2;
